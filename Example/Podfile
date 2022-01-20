@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'Hooker_Example' do
+  pod 'Hooker', :path => '../'
+
+  target 'Hooker_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
