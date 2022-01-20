@@ -1,0 +1,22 @@
+{
+  "name": "Hooker",
+  "version": "0.1.0",
+  "summary": "Swift Hooker.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/JerryChenly/Hooker",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "JerryChenly": "JerryChenly@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/JerryChenly/Hooker.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "Hooker/Classes/**/*"
+}

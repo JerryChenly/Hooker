@@ -1,0 +1,6 @@
+framework module Hooker {
+  umbrella header "Hooker-umbrella.h"
+
+  export *
+  module * { export * }
+}

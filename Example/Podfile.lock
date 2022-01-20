@@ -1,0 +1,16 @@
+PODS:
+  - Hooker (0.1.0)
+
+DEPENDENCIES:
+  - Hooker (from `../`)
+
+EXTERNAL SOURCES:
+  Hooker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  Hooker: 0507d33462a54ed02f55ce05ce4295740612eeea
+
+PODFILE CHECKSUM: 78181504d1b350800d2fedad74eb6457a0da1f70
+
+COCOAPODS: 1.11.2
