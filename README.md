@@ -1,4 +1,3 @@
-# Hooker
 
 [![CI Status](https://img.shields.io/travis/chenliangyin/Hooker.svg?style=flat)](https://travis-ci.org/chenliangyin/Hooker)
 [![Version](https://img.shields.io/cocoapods/v/Hooker.svg?style=flat)](https://cocoapods.org/pods/Hooker)
